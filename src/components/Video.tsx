@@ -1,4 +1,4 @@
-import defaultVideo from "../assets/intro.webm";
+import defaultVideo from "../assetsgif_logo.jpeg";
 import ConvertLoader from "./ConvertLoader";
 import IntroTitle from "./IntroTitle";
 
