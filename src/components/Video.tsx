@@ -1,4 +1,4 @@
-import defaultVideo from "../assetsgif_logo.jpeg";
+import defaultVideo from "../assets/gif_logo.jpeg";
 import ConvertLoader from "./ConvertLoader";
 import IntroTitle from "./IntroTitle";
 
