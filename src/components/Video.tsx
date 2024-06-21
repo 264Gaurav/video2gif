@@ -1,4 +1,4 @@
-import defaultVideo from "../assets/vdo.mp4";
+import defaultVideo from "../assets/vdo.webm";
 import ConvertLoader from "./ConvertLoader";
 import IntroTitle from "./IntroTitle";
 
